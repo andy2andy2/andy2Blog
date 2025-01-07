@@ -34,4 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins 
-
+gem "faraday-retry", "~> 2.2", ">= 2.2.1", group: :jekyll_plugins

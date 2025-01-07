@@ -48,3 +48,19 @@ https://andy2andy2.github.io/thoughts/2025/01/06/Jekyll-So-Far.html is the url t
 https://andy2andy2.github.io/andy2Blog/thoughts/2025/01/06/Jekyll-So-Far.html, my post and theme show up
 
 The fix to this problem was going to the settings > Pages > under Build and deployment > Branch > Main branch > change the root folder to /docs
+
+In addition the build failed when pushing to github will be adding faraday-retry gem to the gemfile.
+
+Notes for myself
+
+creates local hosting to test jekyll pages
+
+- bundle exec jekyll serve 
+
+this is to add to github page
+
+- git add .
+- git commit -m "update page"
+- git push origin main
+
+
