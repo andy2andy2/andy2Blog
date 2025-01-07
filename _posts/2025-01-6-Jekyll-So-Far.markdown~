@@ -17,9 +17,7 @@ This project took longer than I would like to admit. I took a long break and wan
 The test worked like a charm, I even hosted it on github.io and linked my domain name. I loosely followed the [Giraffe Academy's](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&ab_channel=GiraffeAcademy) playlist and managed to get everything working.
 However it was just to see how it worked, I knew that I could add a theme, wanted it to have my resume, and categories for my project, thoughts, and notes.
 
-My second attempt
-
-I am not exactly sure when it went wrong but I think I know where it went wrong.
+My second attempt I am not exactly sure when it went wrong but I think I know where it went wrong.
 I failed migration, where I changed the name of the folder structure and I think I deleted some of the internal folders. It caused errors that I could not understandhow to fix. I stepped away from this project for a good 2 months. I took a break from computers in general, got back into landscape, and did some soul searching.
 
 Here on my successfull attempt, I attempted to go back to it. Uninstalled and reinstalled Jekyll and picked a new theme that is called Minimal Mistakes. 
