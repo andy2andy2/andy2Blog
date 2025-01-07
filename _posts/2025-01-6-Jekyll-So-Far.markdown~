@@ -51,6 +51,7 @@ The fix to this problem was going to the settings > Pages > under Build and depl
 
 In addition the build failed when pushing to github will be adding faraday-retry gem to the gemfile.
 
+We are back to a failed push, changing back to the root fixes the deploy
 Notes for myself
 
 creates local hosting to test jekyll pages

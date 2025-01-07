@@ -52,13 +52,17 @@ The fix to this problem was going to the settings > Pages > under Build and depl
 In addition the build failed when pushing to github will be adding faraday-retry gem to the gemfile.
 
 We are back to a failed push, changing back to the root fixes the deploy
-Notes for myself
 
-creates local hosting to test jekyll pages
+EVERYTHING WORKS NOW AND THIS IS THE LAST UPDATE FOR THIS POST
+
+Notes for myself
+================
+
+To create local hosting to test jekyll pages
 
 - bundle exec jekyll serve 
 
-this is to add to github page
+These commands add to github page
 
 - git add .
 - git commit -m "update page"
